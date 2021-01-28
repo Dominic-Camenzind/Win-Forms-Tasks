@@ -1,0 +1,10 @@
+C:\WinForms\BreakfastList\bin\Debug\BreakfastList.exe.config
+C:\WinForms\BreakfastList\bin\Debug\BreakfastList.exe
+C:\WinForms\BreakfastList\bin\Debug\BreakfastList.pdb
+C:\WinForms\BreakfastList\obj\Debug\BreakfastList.csprojAssemblyReference.cache
+C:\WinForms\BreakfastList\obj\Debug\BreakfastList.Form1.resources
+C:\WinForms\BreakfastList\obj\Debug\BreakfastList.Properties.Resources.resources
+C:\WinForms\BreakfastList\obj\Debug\BreakfastList.csproj.GenerateResource.cache
+C:\WinForms\BreakfastList\obj\Debug\BreakfastList.csproj.CoreCompileInputs.cache
+C:\WinForms\BreakfastList\obj\Debug\BreakfastList.exe
+C:\WinForms\BreakfastList\obj\Debug\BreakfastList.pdb

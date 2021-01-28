@@ -8,3 +8,13 @@ C:\Users\dominic.camenzind\Desktop\WinForms\Aufgabe 1.2\bin\Debug\Aufgabe 1.2.ex
 C:\Users\dominic.camenzind\Desktop\WinForms\Aufgabe 1.2\bin\Debug\Aufgabe 1.2.pdb
 C:\Users\dominic.camenzind\Desktop\WinForms\Aufgabe 1.2\obj\Debug\Aufgabe 1.2.exe
 C:\Users\dominic.camenzind\Desktop\WinForms\Aufgabe 1.2\obj\Debug\Aufgabe 1.2.pdb
+C:\WinForms\Task 1.2\bin\Debug\Aufgabe 1.2.exe.config
+C:\WinForms\Task 1.2\bin\Debug\Aufgabe 1.2.exe
+C:\WinForms\Task 1.2\bin\Debug\Aufgabe 1.2.pdb
+C:\WinForms\Task 1.2\obj\Debug\Aufgabe 1.2.csprojAssemblyReference.cache
+C:\WinForms\Task 1.2\obj\Debug\Aufgabe_1._2.Form1.resources
+C:\WinForms\Task 1.2\obj\Debug\Aufgabe_1._2.Properties.Resources.resources
+C:\WinForms\Task 1.2\obj\Debug\Aufgabe 1.2.csproj.GenerateResource.cache
+C:\WinForms\Task 1.2\obj\Debug\Aufgabe 1.2.csproj.CoreCompileInputs.cache
+C:\WinForms\Task 1.2\obj\Debug\Aufgabe 1.2.exe
+C:\WinForms\Task 1.2\obj\Debug\Aufgabe 1.2.pdb
