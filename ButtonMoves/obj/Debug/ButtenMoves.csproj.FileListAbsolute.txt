@@ -1,0 +1,10 @@
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\bin\Debug\ButtenMoves.exe.config
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\bin\Debug\ButtenMoves.exe
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\bin\Debug\ButtenMoves.pdb
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\obj\Debug\ButtenMoves.csprojAssemblyReference.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\obj\Debug\ButtenMoves.Form1.resources
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\obj\Debug\ButtenMoves.Properties.Resources.resources
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\obj\Debug\ButtenMoves.csproj.GenerateResource.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\obj\Debug\ButtenMoves.csproj.CoreCompileInputs.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\obj\Debug\ButtenMoves.exe
+C:\Users\dominic.camenzind\Desktop\WinForms\ButtenMoves\obj\Debug\ButtenMoves.pdb

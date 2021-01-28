@@ -1,0 +1,10 @@
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\bin\Debug\ReisedauerMond.exe.config
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\bin\Debug\ReisedauerMond.exe
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\bin\Debug\ReisedauerMond.pdb
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\obj\Debug\ReisedauerMond.csprojAssemblyReference.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\obj\Debug\ReisedauerMond.Form1.resources
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\obj\Debug\ReisedauerMond.Properties.Resources.resources
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\obj\Debug\ReisedauerMond.csproj.GenerateResource.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\obj\Debug\ReisedauerMond.csproj.CoreCompileInputs.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\obj\Debug\ReisedauerMond.exe
+C:\Users\dominic.camenzind\Desktop\WinForms\ReisedauerMond\obj\Debug\ReisedauerMond.pdb

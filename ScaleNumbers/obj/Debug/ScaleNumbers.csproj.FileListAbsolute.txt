@@ -1,0 +1,10 @@
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\bin\Debug\ScaleNumbers.exe.config
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\bin\Debug\ScaleNumbers.exe
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\bin\Debug\ScaleNumbers.pdb
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\obj\Debug\ScaleNumbers.csprojAssemblyReference.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\obj\Debug\ScaleNumbers.Form1.resources
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\obj\Debug\ScaleNumbers.Properties.Resources.resources
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\obj\Debug\ScaleNumbers.csproj.GenerateResource.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\obj\Debug\ScaleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\obj\Debug\ScaleNumbers.exe
+C:\Users\dominic.camenzind\Desktop\WinForms\ScaleNumbers\obj\Debug\ScaleNumbers.pdb

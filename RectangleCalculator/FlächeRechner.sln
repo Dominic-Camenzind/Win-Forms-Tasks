@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlächeRechner", "FlächeRechner.csproj", "{49CE1E64-1867-4E0E-BD49-2C871C1F857C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49CE1E64-1867-4E0E-BD49-2C871C1F857C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CE1E64-1867-4E0E-BD49-2C871C1F857C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CE1E64-1867-4E0E-BD49-2C871C1F857C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CE1E64-1867-4E0E-BD49-2C871C1F857C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673D9A6C-79CF-4919-BB19-37531155C4A4}
+	EndGlobalSection
+EndGlobal

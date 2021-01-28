@@ -1,0 +1,10 @@
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\obj\Debug\FlächeRechner.csprojAssemblyReference.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\obj\Debug\FlächeRechner.Form1.resources
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\obj\Debug\FlächeRechner.Properties.Resources.resources
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\obj\Debug\FlächeRechner.csproj.GenerateResource.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\obj\Debug\FlächeRechner.csproj.CoreCompileInputs.cache
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\bin\Debug\FlächeRechner.exe.config
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\bin\Debug\FlächeRechner.exe
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\bin\Debug\FlächeRechner.pdb
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\obj\Debug\FlächeRechner.exe
+C:\Users\dominic.camenzind\Desktop\WinForms\FlächeRechner\obj\Debug\FlächeRechner.pdb
